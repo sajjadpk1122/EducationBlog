@@ -1,0 +1,2 @@
+# EducationBlog
+GitHub Pages
